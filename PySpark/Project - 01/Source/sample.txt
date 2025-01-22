@@ -1,0 +1,3 @@
+2025-01-21 12:34:56 ERROR system Something went wrong
+2025-01-21 12:35:00 INFO system Service started
+2025-01-21 12:35:05 ERROR database Connection lost
